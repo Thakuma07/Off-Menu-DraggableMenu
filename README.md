@@ -2,12 +2,13 @@
 
 A premium, interactive web experience featuring a dynamic, draggable menu drawer and a high-impact hero section with a video background and glassmorphism elements.
 
-![Reference Image Mockup](e:/Web%20development/Website%20Elements/menu%20animation/WeAreOffMenu/assets/logo.svg) <!-- Note: Replace with actual screenshot if available -->
+<img width="1920" height="1080" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/627d3214-b287-46a9-b83e-a1f19f6e4331" /> <!-- Note: Replace with actual screenshot if available -->
 
 ## ✨ Features
 
 - **Draggable Menu Drawer**: A floating menu that can be dragged across the top zone and snaps into place.
 - **Expandable Interaction**: Smooth GSAP-powered expansion to reveal navigation items (Work, Manifesto, Contact).
+
 - **Hero Video Background**: High-quality video background for an immersive visual experience.
 - **Glassmorphism UI**: 
   - Glassmorphic menu drawer with backdrop blur.
